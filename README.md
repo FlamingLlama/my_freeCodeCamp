@@ -4,7 +4,8 @@ Just a repository to keep track of my progress with the exercises and projects i
 https://www.freecodecamp.org/flaming_llama
 
 ## Languages
-HTML
+HTML CSS JavaScript
 
 ## Current Certification
-- Responsive Web Design [as of Dec 2020]
+- Responsive Web Design ~~[Dec 2020]~~
+- JavaScript Algorithms and Data Structures [Jan 2021]
